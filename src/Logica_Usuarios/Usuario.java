@@ -1,4 +1,4 @@
-package Logica_InstanciasAplicacion;
+package Logica_Usuarios;
 
 public class Usuario {
     private int id;
